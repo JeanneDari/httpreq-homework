@@ -42,3 +42,4 @@ if __name__ ==  '__main__':
     path_to_file = 'C:/Projects/homework files/'
     file_name = 'basic1.txt'
     ya.upload_file_to_disk(f"netology/{file_name}", f"{path_to_file}{file_name}")
+    
