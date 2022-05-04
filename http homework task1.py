@@ -14,4 +14,3 @@ for i in list:
     max_value = max(maxt.values())
     final_dict = {k: v for k, v in maxt.items() if v == max_value}
 print(final_dict)
-
